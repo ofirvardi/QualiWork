@@ -1,1 +1,13 @@
 echo "bla"
+sleep 5
+echo "bla1"
+sleep 5
+echo "bla2"
+sleep 5
+echo "bla3"
+sleep 5
+echo "bla4"
+sleep 5
+echo "bla5"
+sleep 5
+echo "bla6"
