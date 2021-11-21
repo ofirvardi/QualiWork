@@ -1,3 +1,4 @@
+sleep 60
 echo "bla"
 sleep 5
 echo "bla1"
