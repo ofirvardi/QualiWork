@@ -1,5 +1,5 @@
-echo "bla"
-sleep 20
+echo "bla" 
+sleep 20 
 echo "bla1"
 sleep 20
 echo "bla2"
