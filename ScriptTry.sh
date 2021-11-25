@@ -1,7 +1,7 @@
 echo "bla" 
 sleep 20 
 echo "bla1"
-sleep 20
+sleep 2
 echo "bla2"
 sleep 2
 echo "bla3"
