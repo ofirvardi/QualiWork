@@ -3,11 +3,11 @@ sleep 20
 echo "bla1"
 sleep 20
 echo "bla2"
-sleep 20
+sleep 2
 echo "bla3"
-sleep 20
+sleep 2
 echo "bla4"
-sleep 20
+sleep 2
 echo "bla5"
-sleep 20
+sleep 2
 echo "bla6"
