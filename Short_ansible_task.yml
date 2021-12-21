@@ -1,0 +1,8 @@
+- hosts: all
+  tasks:
+  - name: Print before long task
+    debug: msg="starting long task (90 seconds)..."
+  - name: Long Task - sleep 10
+    shell: sleep 10
+  - name: Print after long task
+    debug: msg="long task ended"
