@@ -1,3 +1,5 @@
+echo $one
+echo $two
 echo "bla" 
 sleep 20 
 echo "bla1"
